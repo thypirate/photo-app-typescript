@@ -4,7 +4,7 @@ import { render, html, nothing } from "lit-html";
 import { renderPhoto } from "./renderer";
 import { fetchImagesFromAPI } from "./unsplash";
 
-fetchImagesFromAPI("dogs", 5).then((data) => {
+fetchImagesFromAPI("dogs", 5).then(() => {
   renderApp(null);
 });
 

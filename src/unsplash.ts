@@ -1,6 +1,6 @@
 import { PhotoSearchAPIResult } from "./interface";
 
-const UNSPLASH_API_KEY = " Client-ID my-super-secret-access-key";
+const UNSPLASH_API_KEY = " Client-ID my-super-secret-key";
 
 export const fetchImagesFromAPI = async (
   searchTerm: string,

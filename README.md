@@ -4,4 +4,4 @@ A very basic photo app made in Typescript that fetchs images from [Unsplash](htt
 
 ## Preview
 
-[![Photo-App-Typescript](https://github.com/thypirate/photo-app-typescript/blob/master/photo-app.gif)](https://thypirate.github.io/photo-app-typescript/)
+[![Photo-App-Typescript](https://github.com/thypirate/photo-app-typescript/blob/main/photo-app.gif)](https://thypirate.github.io/photo-app-typescript/)
